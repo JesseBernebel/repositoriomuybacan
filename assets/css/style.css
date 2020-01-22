@@ -1,0 +1,47 @@
+.titlelogo{
+
+    color: #f8f9fa;
+    font-family: 'Lobster', cursive;
+
+}
+
+
+.foto_ppal{
+
+width: 100%;
+padding: 20px;
+
+}
+footer {
+    background-color:#373A3C ;
+    color: #f8f9fa;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+
+.footerlogo{
+    font-size:30px ;
+    padding: 40px;
+}
+
+.subscription{
+    background-color: #DC3545;
+    text-align: center!important;
+    color: white;
+    padding: 50px;
+}
+
+#botonbuenaonda{
+
+
+    color:white!important;
+    border-color: white!important;
+    padding: 10px;
+}
+
+.parrafo{
+
+    padding: 10px;
+}
+ 
